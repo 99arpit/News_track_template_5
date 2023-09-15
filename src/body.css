@@ -1,0 +1,23 @@
+.carouselImage {
+  height: 60vh;
+  width: 100%;
+  /* object-fit: contain; */
+}
+.midSection {
+  display: flex;
+  margin-top: 25px;
+}
+#leftHeading {
+  margin-left: 25px;
+  font-weight: 1500;
+  width: 30%;
+}
+#rightDescription {
+  width: 70%;
+}
+.cardsContainer {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin: 35px;
+}

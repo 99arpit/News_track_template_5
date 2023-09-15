@@ -1,0 +1,18 @@
+.view-news {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  img {
+    // max-height: 80vh;
+    // width: 80%;
+    object-fit: contain;
+  }
+  p {
+    font-size: larger;
+  }
+}
+.bhaskar {
+  font-family: "bhaskar";
+}
